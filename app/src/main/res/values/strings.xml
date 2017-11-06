@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_currentlocationinmap">Map</string>
+    <string name="title_activity_mapssearch">Map</string>
+    <string name="title_activity_maps_activitysearch">Map</string>
+    <string name="title_activity_maps_activitytouch">Map</string>
+    <string name="title_activity_maps_activitygps">Map</string>
+</resources>
